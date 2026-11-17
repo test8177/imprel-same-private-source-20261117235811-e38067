@@ -1,0 +1,3 @@
+[submodule "deps/module"]
+	path = deps/module
+	url = ../imprel-same-private-target-20261117235811-e38067.git
